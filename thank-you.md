@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: 感谢您的回复
 ---
-## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+## 感谢您的回复
+我们已收到您的回复，会尽快答复您
 
 Have a nice day!
