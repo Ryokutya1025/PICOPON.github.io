@@ -2,7 +2,7 @@
 title:              まことMACOTO
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+locale:             ja_JP
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://PICOPON.github.io" # the base hostname & protocol for your site
 
