@@ -31,12 +31,6 @@
 				<!-- Main -->
 				<div id="main">
 
-          <article class="post featured">
-            <header class="major">
-              <p>这里主要上传麻麻最新的推文和消息
-							</p>
-            </header>
-          </article>
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
@@ -49,7 +43,7 @@
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ post.url | absolute_url }}" class="button">展开</a></li>
 								</ul>
 							</article>
 							{% if mod3 == 0 %}

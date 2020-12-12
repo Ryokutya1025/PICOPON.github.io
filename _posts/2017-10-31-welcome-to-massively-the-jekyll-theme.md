@@ -2,7 +2,7 @@
 layout: post
 title:  "推文1"
 date:   2017-10-31
-excerpt: "推文内容"
+excerpt: "推文内容推文内容推文内容推文内容推文内容推文内容推文内容"
 image: "/images/pic02.jpg"
 ---
 
