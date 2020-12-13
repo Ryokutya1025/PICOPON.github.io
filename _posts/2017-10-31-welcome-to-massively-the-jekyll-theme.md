@@ -1,7 +1,0 @@
----
-layout: post
-title:  "まこと🎀sub👑"
-date:   2017-10-31
-excerpt: "ねれないからよしよしして寝かしつけて欲しい😴ばぶ"
-image: ""
----
