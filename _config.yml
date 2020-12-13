@@ -21,7 +21,7 @@ producer:           工具人yukionna
 email:              1322363294@qq.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image:   https://tva1.sinaimg.cn/large/0081Kckwly1glmfy7b48qj31hc0u0kb6.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
