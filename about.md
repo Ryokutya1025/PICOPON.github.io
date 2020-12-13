@@ -19,7 +19,7 @@ cosplay和料理、饮酒直播、外景以及杂谈、
 大家频道入会的资金会用来购买器材和cos的服装
 以及用作一些活动的经费！
 
-<span class="image fit"><img src="{{ "/images/maconiconico.jpg" | absolute_url }}" alt="" /></span>* **入会入口**  
+<span class="image fit"><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1glmcle3dobj30zk0k0tta.jpg" alt="" /></span>* **入会入口**  
   点击页面右上角的「**チャンネルに入会**」或者[**这里**](https://ch.nicovideo.jp/macoto2525/join)
 
 Smartphone app : <https://play.google.com/store/apps/dwango=en_US>
