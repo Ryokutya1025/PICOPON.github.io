@@ -27,9 +27,9 @@ comments: true
 
 				<!-- Main -->
 				<div id="main">
-		
+		<div class="comments-wrapper">
           		<section class="post">
-			<div>
+			
     				<header class="major">
       				<span class="date">{{page.date | date_to_string}}</span>
       				<h1>{{page.title}}</h1>
@@ -37,9 +37,9 @@ comments: true
       				</header>
       				<div class="image left"><img src="{{page.image}}" alt=""></div>
       				<p>{{content}}</p>
-			</div>
+			
       			</section>
-		
+		</div>
           <div class="comments-wrapper">
 
           <div id="gitalk-container"></div>
