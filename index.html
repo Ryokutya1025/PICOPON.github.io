@@ -90,6 +90,7 @@ sitemap:
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
   									</header>
   									<p style="text-align: center">{{ post.excerpt }}</p>
+									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">展开</a></li>
   									</ul>
