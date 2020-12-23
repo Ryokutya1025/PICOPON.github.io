@@ -37,14 +37,13 @@
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<img src="{{ post.image | absolute_url }}" alt=""/>
+									<strong>{{ post.title }}</strong><span> @rnqq</span>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p style="text-align: center">{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">展开</a></li>
-								</ul>
+								<!--<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>-->
+								<p><a href="{{ post.url | absolute_url }}"">{{ post.content }}</a></p>
+								<div><span>{{post.excerpt}}，{{ post.date | date:"%Y年%m月%d日" }} · Twitter for web</span>
+								</div>
 							</article>
 						{% endfor %}
 
