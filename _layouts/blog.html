@@ -34,21 +34,20 @@
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
+						<!--{% assign mod3 = forloop.index | modulo: 3 %}-->
 							<article>
 								<header>
 									<img src="{{ post.image | absolute_url }}" alt=""/>
-									<strong>{{ post.title }}</strong><span> @rnqq</span>
+									<strong>{{ post.title }} </strong>
 								</header>
 								<!--<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>-->
-								<p><a href="{{ post.url | absolute_url }}"">{{ post.content }}</a></p>
+								<a href="{{ post.url | absolute_url }}"">{{ post.content }}</a>
 								<div><span>{{post.excerpt}}，{{ post.date | date:"%Y年%m月%d日" }} · Twitter for web</span>
 								</div>
 							</article>
 						{% endfor %}
-
+						<p style="text-align: center;">更早的没有了=-=</p>
 					</section>
-
 					</div>
 
 				<!-- Footer -->
