@@ -29,9 +29,8 @@ comments: true
 				<div id="main">
           		<section class="post">
 			
-    				<header class="major">
-				    	<h2 style="font-size:x-large">{{page.title}}</h2>
-      					<p>{{page.date| date:"%Y/%m/%d" }}，{{page.excerpt}}</p> <!--| date_to_string-->
+    				<header class="major" style="text-align: left;">
+						<img src="{{ page.image | absolute_url }}" alt="" style="width: 3em;height: 3em;padding-top: 0.1em;border-radius:50%; "/><h2 style="font-size:x-large;text-align: left;vertical-align: middle;display: inline-block;">{{page.title}} <span style="font-size: medium;">{{page.date| date:"%Y/%m/%d" }}，{{page.excerpt}}</span></h2>
       				</header>
       				<!--<div class="image left"><img src="{{page.image}}" alt=""></div>-->
       				<p>{{content}}</p>
