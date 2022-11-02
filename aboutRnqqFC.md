@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于入会
+title: 关于官方粉絲網站入会
 description: rnqqFC
 sitemap:
     priority: 0.7
