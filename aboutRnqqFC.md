@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 <header class="major">
-	<h3><a href="#">可以更多支持我的官方粉絲網站開通啦！ </a></h3>
+	<h2 style="font-size: 2.75rem;"><a href="#">可以更多支持我的官方粉絲網站開通啦！ </a></h2>
 </header>
 
 ## 粉絲網站的主要特典包括：
