@@ -92,4 +92,3 @@ sitemap:
 <strong>※官方粉絲網站上的限定内容（视频，图像）受到法律保护,严禁擅自转载，复制和个人转用！一旦发现将会追究其法律责任!  
 Copyright © macoto official All rights reserved. © DWANGO Co., Ltd.</strong>
 </div>
-
