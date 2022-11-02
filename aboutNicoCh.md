@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于入会
+title: 关于N站频道入会
 description: niconico
 sitemap:
     priority: 0.7
