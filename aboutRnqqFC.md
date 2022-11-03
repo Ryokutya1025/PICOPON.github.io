@@ -38,9 +38,8 @@ sitemap:
 
 
 * **关于计划**
-  <span class="image fit"><img src="{{ "/images/rnqqfcplan_friend.jpg" | absolute_url }}" alt="" />
-  </span>
-  * **朋友计划每月550日元/3个月1,650日元（含税）**
+  <span class="image fit"><img src="{{ "/images/rnqqfcplan_friend.jpg" | absolute_url }}" alt="" /></span>
+  * **朋友计划每月550日元/3个月1,650日元（含税）**  
     ★ 给那些喜欢我想要更加支持我活动的粉丝。
     ★ 想要买更多器材和cos服。
     ★ 想要请求画师画更多的插画（稿费）
@@ -56,10 +55,8 @@ sitemap:
 
     ● 日本以外的客戶可以使用信用卡和 PayPal 付款。
 
-  <span class="image fit"><img src="{{ "/images/rnqqfcplan_lover.jpg" | absolute_url }}" alt="" />
-  </span>
-
-  * **恋人计划每月11,000日元/每三个月一支付33,000日元（含税）**
+  <span class="image fit"><img src="{{ "/images/rnqqfcplan_lover.jpg" | absolute_url }}" alt="" /></span>
+  * **恋人计划每月11,000日元/每三个月一支付33,000日元（含税）**  
     ★ 给那些喜欢我想要更加支持我活动的粉丝。
     ★ 想要买更多器材和cos服。
     ★ 想要请求画师画更多的插画（稿费）
@@ -77,7 +74,7 @@ sitemap:
 
     ● 日本以外的客戶可以使用信用卡和 PayPal 付款。
 
-  <span class="image fit"><img src="{{ "/images/rnqqfcplan_wife.jpg" | absolute_url }}" alt="" />
+  <span class="image fit"><img src="{{ "/images/rnqqfcplan_wife.jpg" | absolute_url }}" alt="" /></span>
   * **夫妻计划每月60000日元（含税）**
     可以观看所有计划(朋友，恋人)里的内容。
 
@@ -90,12 +87,12 @@ sitemap:
       这个计划的收入主要用作来支付封面定制的委托费。
       YouTube的封面每次，都是向画师约稿来制作的。
       虽然会根据直播频率的不同而改变，但是每月都会花费数十万日元,如果能作为这方面的补贴的话我会不胜感激的！
-
+    
     【放送内容】和恋人计划一样的直播内容每月直播1次。
     朋友计划，恋人计划的内容都可以观看。
     恋人计划的礼物特典+夫妻计划的专属礼物（写着你自己名字的亲笔签名和一句你想让我说的话的实拍照片 实体照片）礼物计划报名->
     <https://rnqq.jp/form/present07>
-
+    
     ● 日本以外的客戶可以使用信用卡和 PayPal 付款。
 
 
