@@ -27,7 +27,7 @@ sitemap:
   建议通过Paypal支付。
 
   关于paypal支付方法->
-　 <https://www.paypal.com/jp/webapps/mpp/personal/how-paypal-works>
+  <https://www.paypal.com/jp/webapps/mpp/personal/how-paypal-works>
 
 
 * **关于限定直播**  
