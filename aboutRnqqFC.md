@@ -12,15 +12,15 @@ sitemap:
 </header>
 
 ## 粉絲網站的主要特典包括：
-**限定直播**，**限定投稿视频**以及一些不定期的礼物企画活动！  
+**限定直播**，**限定投稿视频**以及一些不定期的礼物计划活动！  
 在粉絲網站每月末会有1次粉絲網站会员专属的限定直播！  
 直播在niconico上太刺激而不能播的带摄像头和舔耳等情景ASMR！  
-如果订阅了恋人计划或以上,自慰支持真人視頻,行話,倒計時,假性交,手淫,乳交,打擊,假陽具,示範等...!?  
-大家粉絲網站入会的资金会用来购买器材和cos的服装以及用作一些活动的经费！  
-希望大家入会支持我！
+如果订阅了恋人计划或以上的计划,直播内容会有ASMR/实拍手交，淫语，催眠，射精倒数，假性交，撸管，乳交，口交，假阳具，小穴的声音等…!?  
+大家给粉絲網站入会的资金会用来购买器材和cos服以及用作一些活动的经费！希望大家入会支持我！  
 
 * **入会入口**  
-  这里-> <https://rnqq.jp/join>
+  这里->
+  <https://rnqq.jp/join>
 
 * **关于支付**  
   入会可以使用信用卡，au docomo softbank手机支付 paypal 借记卡 银行账户的转账。  
@@ -33,11 +33,10 @@ sitemap:
 * **关于限定直播**  
   <https://rnqq.jp/lives>  
   直播的回放（录播）在直播结束后起一月内可以不限次观看  
-  舔耳直播在1个月的观看时间结束后会变为，粉絲網站会员可以单次氪金租用的限定投稿视频
-（可以看30天）
+  舔耳直播在1个月的观看时间结束后会变为，粉絲網站会员可以单次氪金租用的限定投稿视频（可以看30天）
 
 
-* **关于计划**
+* **关于计划**  
   <span class="image fit"><img src="{{ "/images/rnqqfcplan_friend.jpg" | absolute_url }}" alt="" /></span>
   * **朋友计划每月550日元/3个月1,650日元（含税）**  
     ★ 给那些喜欢我想要更加支持我活动的粉丝。  
@@ -55,7 +54,7 @@ sitemap:
 
     ● 日本以外的客戶可以使用信用卡和 PayPal 付款。  
 
-  <span class="image fit"><img src="{{ "/images/rnqqfcplan_lover.jpg" | absolute_url }}" alt="" /></span>
+  <span class="image fit"><img src="{{ "/images/rnqqfcplan_lover.jpg" | absolute_url }}" alt="" /></span>  
   * **恋人计划每月11,000日元/每三个月一支付33,000日元（含税）**  
     ★ 给那些喜欢我想要更加支持我活动的粉丝。  
     ★ 想要买更多器材和cos服。  
@@ -74,8 +73,8 @@ sitemap:
 
     ● 日本以外的客戶可以使用信用卡和 PayPal 付款。  
 
-  <span class="image fit"><img src="{{ "/images/rnqqfcplan_wife.jpg" | absolute_url }}" alt="" /></span>
-  * **夫妻计划每月60000日元（含税）**
+  <span class="image fit"><img src="{{ "/images/rnqqfcplan_wife.jpg" | absolute_url }}" alt="" /></span>  
+  * **夫妻计划每月60000日元（含税）**  
     可以观看所有计划(朋友，恋人)里的内容。  
 
     ★ 给那些想要更加疼爱我更加支持我活动的粉丝。  
