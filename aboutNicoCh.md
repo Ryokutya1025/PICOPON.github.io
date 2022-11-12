@@ -59,7 +59,7 @@ Smartphone app : <https://play.google.com/store/apps/dwango=en_US>
 
   * **关于Fantia**  
   由于限定投稿视频上传的时候会有文件大小限制
-  因此比N站频道更好音质的舔耳视频会在BOOTH上售卖。
+  因此比N站频道更好音质的舔耳视频会在Fantia上售卖。
   因为经过了音声编辑，所以是体验相对更好的作品。
 　<https://fantia.jp/rnqqU>
 
