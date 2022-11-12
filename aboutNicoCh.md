@@ -19,7 +19,7 @@ cosplay和料理、饮酒直播、外景以及杂谈、
 大家频道入会的资金会用来购买器材和cos的服装
 以及用作一些活动的经费！
 
-<span class="image fit"><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1glmcle3dobj30zk0k0tta.jpg" alt="" /></span>* **入会入口**  
+<span class="image fit"><img src="{{ "/images/maconiconico.jpg" | absolute_url }}" alt="" /></span>* **入会入口**  
   点击页面右上角的「**チャンネルに入会**」或者[**这里**](https://ch.nicovideo.jp/macoto2525/join)
 
 Smartphone app : <https://play.google.com/store/apps/dwango=en_US>
@@ -72,10 +72,9 @@ Smartphone app : <https://play.google.com/store/apps/dwango=en_US>
 观看：<https://www.youtube.com/watch?v=GT_H8tf9xWs>  
 DL:-> <https://www.tunecore.co.jp/artist/macoto25#r431335>  
 -> <https://music.apple.com/jp/album/1327822270>  
--> <https://www.amazon.co./>  
 <a href="https://ch.nicovideo.jp/macoto2525" class="image main"><img src="{{ "/images/maconicosam.jpg" | absolute_url }}" alt="" /></a>
 <div class="box">
 <strong>※N站频道上的限定内容（视频，图像）受到法律保护,严禁擅自转载，复制和个人转用！一旦发现将会追究其法律责任!  
-Copyright © 2019 macoto All Rights Reserved.</strong>
+Copyright © 2022 macoto All Rights Reserved.</strong>
 </div>
 
